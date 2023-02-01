@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nodejs,Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://manoj7654.github.io](https://manoj7654.github.io/)
+- 👨‍💻 All of my projects are available at [https://manoj7654.github.io/](https://manoj7654.github.io)
 
 - 💬 Ask me about **Express,Nodejs,MongoDb,Javascript**
 
