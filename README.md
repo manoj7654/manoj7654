@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Express,Nodejs,MongoDb,Javascript**
 
- 📫 How to reach me **manojsfstm5@gmail.com** 
+<!--  📫 How to reach me **manojsfstm5@gmail.com**  -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10C5IVHqeM2huu0F-KyZHNAo3XD0VGp9w/view?usp=share_link](https://drive.google.com/file/d/10C5IVHqeM2huu0F-KyZHNAo3XD0VGp9w/view?usp=share_link)
 
