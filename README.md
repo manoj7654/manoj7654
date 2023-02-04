@@ -2,7 +2,14 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
-
+<!-- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj7654&label=Profile%20views&color=0e75b6&style=flat" alt="manoj7654" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
