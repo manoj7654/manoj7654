@@ -14,9 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bewacoof.come**
-
-- 🌱 I’m currently learning **Nodejs,Express,MongoDB**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://manoj7654.github.io/">Portfolio</a>
 
