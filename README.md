@@ -11,10 +11,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
-
+<h1>Github Trophies : </h1>
 <hr>
-<h1>Github Trophies : </h>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoj7654" alt="manoj7654" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
