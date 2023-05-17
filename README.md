@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">A passionate Nodejs Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
 <!-- <br>
 <br>
@@ -13,8 +13,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj7654&label=Profile%20views&color=0e75b6&style=flat" alt="manoj7654" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://manoj7654.github.io/">Portfolio</a>
 
